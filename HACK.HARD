@@ -405,15 +405,16 @@ logo = """
 \x1b[1;97m---------------------------------------------------
 \33[1;41m𝗧𝗢𝗢𝗟𝗦 𝗨𝗣𝗗𝗔𝗧𝗘 𝗙𝗜𝗥𝗦𝗧 𝗦𝗘𝗡𝗧 𝗙𝗥𝗜𝗘𝗡𝗗 𝗥𝗘𝗤𝗨𝗘𝗦𝗧 \33[0m
 \x1b[1;97m---------------------------------------------------
-\x1b[1;97m[+] 𝗔𝗨𝗧𝗛𝗢𝗥  :       ABIR AHMED  
-\x1b[1;97m[+] 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :  ABIR AHMED 
-\x1b[1;97m[+] 𝗚𝗜𝗧𝗛𝗨𝗕  :    ABIR9930 
+\x1b[1;97m[+] 𝗔𝗨𝗧𝗛𝗢𝗥  :     NILOY AHAMMED 
+\x1b[1;97m[+] 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :  NILOY AHAMMED 
+\x1b[1;97m[+] 𝗚𝗜𝗧𝗛𝗨𝗕  :    NILOY420 
 \x1b[1;97m[+] WHATSAPP     :   https://chat.whatsapp.com/GevjBOCRGtM6satwdwJc6S  \33[0m
 \x1b[1;97m[+] 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 :\x1b[1;97m  0.2    \x1b[1;97m          
 \x1b[1;97m----------------------------------------------------
 """
  
-class Main:
+class Main:fb-hack.py/.gitignore
+
 	def __init__(self):
 		self.id = []
 		self.ok = []
